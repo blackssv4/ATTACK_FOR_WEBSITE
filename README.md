@@ -4,7 +4,7 @@ pkg install bash
 
 pkg install python3
 
-git clone 
+git clone https://github.com/blackssv4/ATTACK_FOR_WEBSITE.git
 
 cd ATTACK_FOR_WEBSITE
 
