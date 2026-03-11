@@ -8,9 +8,9 @@ git clone https://github.com/blackssv4/ATTACK_FOR_WEBSITE.git
 
 cd ATTACK_FOR_WEBSITE
 
-chmod 777 
+chmod +x install.sh
 
-./install.sh
+bash install.sh
 
 # For Kali , Termux , pydroid3
 
